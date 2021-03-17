@@ -25,10 +25,11 @@
 </ul>
 
 🌱我目前在学习信息安全方面的知识。
+⭐ACM乐子人。
+⚡业余爱好：乒乓球，做饭。
+
 <br/><br/>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=CCWUCMCTS&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight" alt="统计信息"/>
-<br/><br/><br/><br/><br/><br/>
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCWUCMCTS&layout=compact&hide=html" alt="统计信息"/>
 
 
 <!--
