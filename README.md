@@ -5,7 +5,7 @@
   <a href="https://www.zhihu.com/people/wang-cheng-chun-18"><img src="https://img.shields.io/badge/知乎-blue" alt="知乎"></a>
 </p>
 <img src="https://badges.toozhao.com/badges/01F102YESZCR0JRJHR9RYG12SB/orange.svg" align="right" />
-
+<img align='right' src="https://profile-counter.glitch.me/ccwucmcts/count.svg" alt="访客数量"/>
 <!--
 **CCWUCMCTS/ccwucmcts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
