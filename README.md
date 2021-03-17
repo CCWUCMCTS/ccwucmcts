@@ -11,16 +11,18 @@
 
 <img align='right' src="https://profile-counter.glitch.me/ccwucmcts/count.svg" alt="访客数量"/>
 <br/><br/>
-- 😄**后端** C，C++，Python，Java
-- 😃**前端** HTML，CSS，JavaScript
-- 😆**数据库** MySQL
-- 😝**框架** Flask
-- 😉**容器** Docker
-- 🤗**深度学习** Tensorflow，PaddlePaddle
-- 🤣**安全** IDA，Pwntools，ODbg
-- 😍**写作** Markdown，LaTeX
-- 😛**设计** Photoshop，Premiere
-- 😧**都不精通**
+<ul>
+    <li>😄<strong>后端</strong> C，C++，Python，Java</li>
+    <li>😃<strong>前端</strong> HTML，CSS，JavaScript</li>
+    <li>😆<strong>数据库</strong> MySQL</li>
+    <li>😝<strong>框架</strong> Flask</li>
+    <li>😉<strong>容器</strong> Docker</li>
+    <li>🤗<strong>深度学习</strong> Tensorflow，PaddlePaddle</li>
+    <li>🤣<strong>安全</strong> IDA，Pwntools，ODbg</li>
+    <li>😍<strong>写作</strong> Markdown，LaTeX</li>
+    <li>😛<strong>设计</strong> Photoshop，Premiere</li>
+    <li>😧<strong>都不精通</strong></li>
+</ul>
 
 🌱我目前在学习信息安全方面的知识。
 <br/><br/>
