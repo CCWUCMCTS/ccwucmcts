@@ -8,8 +8,10 @@
 <img src="https://badges.toozhao.com/badges/01F102YESZCR0JRJHR9RYG12SB/orange.svg" align="right" />
 -->
 <img align='right' src="https://profile-counter.glitch.me/ccwucmcts/count.svg" alt="访客数量"/>
+<br/><br/>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=CCWUCMCTS&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight" alt="统计信息"/>
-
+<br/><br/><br/><br/><br/><br/>
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="统计信息"/>
 <!--
 **CCWUCMCTS/ccwucmcts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
