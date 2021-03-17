@@ -8,6 +8,8 @@
 <img src="https://badges.toozhao.com/badges/01F102YESZCR0JRJHR9RYG12SB/orange.svg" align="right" />
 -->
 <img align='right' src="https://profile-counter.glitch.me/ccwucmcts/count.svg" alt="访客数量"/>
+[![CCWUCMCTS's GitHub stats](https://github-readme-stats.vercel.app/api?username=CCWUCMCTS)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **CCWUCMCTS/ccwucmcts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
