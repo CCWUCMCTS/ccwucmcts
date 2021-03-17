@@ -10,7 +10,12 @@
 
 
 <img align='right' src="https://profile-counter.glitch.me/ccwucmcts/count.svg" alt="访客数量"/>
-<br/><br/>
+<br/>
+<h3>个人介绍</h3>
+🌱学习方向：信安。<br/>
+⭐ACM乐子人。<br/>
+⚡业余爱好：乒乓球，做饭。<br/>
+<h3>相关技能</h3>
 <ul>
     <li>😄<strong>后端</strong> C，C++，Python，Java</li>
     <li>😃<strong>前端</strong> HTML，CSS，JavaScript</li>
@@ -24,12 +29,25 @@
     <li>😧<strong>都不精通</strong></li>
 </ul>
 
-🌱学习方向：信安。<br/>
-⭐ACM乐子人。<br/>
-⚡业余爱好：乒乓球，做饭。<br/>
+<h3>一些项目</h3>
 
-<br/><br/>
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=CCWUCMCTS&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight" alt="统计信息"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CCWUCMCTS&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight" alt="统计信息"/>
+<br/>
+<h4>疫情期间水的比赛</h4>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CCWUCMCTS&repo=sentiment_classification_COVID-19" alt="sentiment_classification_COVID-19"/>
+<br/>
+<h4>dvwa的sql盲注</h4>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CCWUCMCTS&repo=dvwa_sqli_blind" alt="dvwa_sqli_blind"/>
+<br/>
+<h4>算法竞赛模板，不定期更新</h4>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CCWUCMCTS&repo=icpc-template" alt="icpc-template"/>
+<br/>
+<h4>密码编码学系统</h4>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CCWUCMCTS&repo=Cryptography-System" alt="Cryptography-System"/>
+<br/>
+<h4>一个暂时私有的舆情项目</h4>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CUMT-YuqingTeam&repo=Yuqing" alt="Cryptography-System"/>
+<br/>
 
 
 <!--
