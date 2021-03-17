@@ -24,9 +24,9 @@
     <li>😧<strong>都不精通</strong></li>
 </ul>
 
-🌱我目前在学习信息安全方面的知识。
-⭐ACM乐子人。
-⚡业余爱好：乒乓球，做饭。
+🌱学习方向：信安。<br/>
+⭐ACM乐子人。<br/>
+⚡业余爱好：乒乓球，做饭。<br/>
 
 <br/><br/>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=CCWUCMCTS&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight" alt="统计信息"/>
