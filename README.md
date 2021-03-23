@@ -20,7 +20,7 @@
     <li>😄<strong>后端</strong> C，C++，Python，Java</li>
     <li>😃<strong>前端</strong> HTML，CSS，JavaScript</li>
     <li>😆<strong>数据库</strong> MySQL</li>
-    <li>😝<strong>框架</strong> Flask</li>
+    <li>😝<strong>框架</strong> Flask, Qt</li>
     <li>😉<strong>容器</strong> Docker</li>
     <li>🤗<strong>深度学习</strong> Tensorflow，PaddlePaddle</li>
     <li>🤣<strong>安全</strong> IDA，Pwntools，ODbg</li>
