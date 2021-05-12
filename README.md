@@ -52,7 +52,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=CCWUCMCTS&repo=icpc-template" alt="icpc-template"/>
 <br/>
 <h4>python安全编程作业，matplotlib多线程动态绘制分形图，用了一种麻烦的做法</h4>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CCWUCMCTS&repo=icpc-template" alt="icpc-template"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CCWUCMCTS&repo=fractal" alt="fractal"/>
 <br/>
 
 
