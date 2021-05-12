@@ -36,7 +36,7 @@
 <h4>大创和课设，vue+django，一个舆情系统，带有漏洞，然后修复</h4>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=CCWUCMCTS&repo=web-vulnerabilities" alt="web-vulnerabilities"/>
 <br/>
-<h4>运行在微信个人订阅号上的舆情系统后端</h4>
+<h4>运行在微信个人订阅号上的舆情系统后端框架</h4>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=CUMT-YuqingTeam&repo=weixin-public_sentiment_analysis_service_framework" alt="weixin-public_sentiment_analysis_service_framework"/>
 <br/>
 <h4>密码编码学系统</h4>
@@ -51,7 +51,9 @@
 <h4>算法竞赛模板，不定期更新</h4>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=CCWUCMCTS&repo=icpc-template" alt="icpc-template"/>
 <br/>
-
+<h4>python安全编程作业，matplotlib多线程动态绘制分形图，用了一种麻烦的做法</h4>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CCWUCMCTS&repo=icpc-template" alt="icpc-template"/>
+<br/>
 
 
 
