@@ -33,10 +33,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=CCWUCMCTS&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight" alt="统计信息"/>
 <br/>
-<h4>大创和课设，vue+django，一个舆情系统，带有漏洞，然后修复</h4>
+<h4>大创和课设，vue+django，一个舆情系统，带有漏洞，然后修复，暂未发布</h4>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=CCWUCMCTS&repo=web-vulnerabilities" alt="web-vulnerabilities"/>
 <br/>
-<h4>运行在微信个人订阅号上的舆情系统后端框架</h4>
+<h4>运行在微信个人订阅号上的舆情系统后端框架，暂未发布</h4>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=CUMT-YuqingTeam&repo=weixin-public_sentiment_analysis_service_framework" alt="weixin-public_sentiment_analysis_service_framework"/>
 <br/>
 <h4>密码编码学系统</h4>
