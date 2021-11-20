@@ -1,7 +1,7 @@
 <h2 align="center">👋 欢迎访问我的GitHub</h2>
 <p align="center">
   <a href="https://github.com/CCWUCMCTS"><img src="https://img.shields.io/badge/GitHub-black" alt="github"></a>
-  <a href="https://www.cnblogs.com/sz-wcc/"><img src="https://img.shields.io/badge/博客园-success" alt="博客园"></a>
+  <a href="https://ccwucmcts.github.io/"><img src="https://img.shields.io/badge/Blog-success" alt="Blog"></a>
   <a href="https://www.zhihu.com/people/wang-cheng-chun-18"><img src="https://img.shields.io/badge/知乎-blue" alt="知乎"></a>
 </p>
 <!--
